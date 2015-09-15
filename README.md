@@ -7,5 +7,5 @@ Used to download Java notes and Problem Sets from the ISTD 50.001 INTRODUCTION T
 
 ## how to use this thing
 1. Create a folder in which you want your Java notes to go (e.g. "05.001 Course Material")
-2. Dump downloadjavanotes.py into the folder
-3. Execute the program
+2. Dump `downloadjavanotes.py` into the folder
+3. Run `downloadjavanotes.py`
